@@ -6,9 +6,24 @@ body{
 }
 
 body{
-     button1 {background-color: #f44336;} /* Dogs */
-.button2 {background-color: #f44336;} /* Cats */
-.button3 {background-color: #f44336;} /* Angels */
-.button4 {background-color: #f44336; color: Male;} /* Gray */
-.button5 {background-color: #f44336;} /* Female
+
+   .button{
+       .button1{background-color: #04aa6D;
+       font-size: 10px;
+       padding: 10px 24px;
+       }
+       .button2{ background-color: #04aa6D;
+       font-size: 10px;
+       padding: 10px 24px}
+       }
+       .button3{background-colour: #04aa6D;
+       font-size: 10px;
+       padding: 10px 24px}
+
+       .button4 {background-color: #04aa6D
+       font-size: 10px;
+       padding: 10px 24px}
+       }
+       }
+   }
 }
